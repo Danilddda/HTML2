@@ -1,0 +1,212 @@
+.shapka {
+    display: flex;
+    height: 50px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #252525;
+    align-items: flex-start;
+    
+}
+.shapka nav {
+    display: flex;
+    margin-left: 21%;
+    justify-content: center;
+    align-items: center;
+}
+.shapka nav a {
+    text-decoration: none;
+    color: white;
+    font: 17px arial;
+    padding: 15px;
+}
+nav a:hover {
+	color: white;
+	background-color: rgb(90, 90, 90);
+}
+nav a.active {
+    color: white;
+	background-color: rgb(90, 90, 90);
+}
+body {
+    margin: 0;
+    background-color: #e7e7e7;
+}
+.blok {
+    display: flex;
+    width: 59%;
+    height: 1430px;
+    background-color: white;
+    margin-left: 21%;
+}
+.blok .container2 h2 {
+    font: 17px arial;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 0px;
+    padding-top: 17px;
+    width: 240px; 
+    
+}
+.blok .container2 p{
+    font: 12px arial;
+    width: 240px;
+    margin-left: 20px;
+    text-align: justify;
+    
+}
+.blok .container3 {
+    font: 20px arial;
+    width: 400px;
+    font-weight: bold;
+    text-align: justify;
+    width: 440px; 
+    margin-left: 20px;
+}
+.blok .container3 h1 {
+    font: 20px arial;
+    width: 400px;
+    font-weight: bold;
+    text-align: justify;  
+}
+.blok .container3 p {
+    font: 12px arial;
+    width: 440px;
+    text-align: justify;
+}
+.blok .container3 h2 {
+    font: 17px arial;
+    width: 440px;
+    text-align: justify;
+    font-weight: bold;
+}
+.blok .container3  img {
+    width: 440px;     
+}
+
+
+.blok .container4 {
+    font: 20px arial;
+    width: 240px;
+    width: 240px; 
+    margin-left: 20px;
+    position: relative;
+}
+.blok .container4 p {
+    font: 12px arial;
+    width: 240px;
+    text-align: justify;
+}
+.blok .container4 h2 {
+    font: 17px arial;
+    width: 240px;
+    text-align: justify;
+    font-weight: bold;
+}
+.blok .container4  img {
+    width: 240px; 
+    height: 150px;
+    margin-top: 10px;
+}
+
+.footer1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    width: 100%;
+    background-color: #252525;
+    margin-top: 0px;
+}
+.footer1 .one {
+    background-color: #e7e7e7;
+    width: 220px;
+    height: 200px;
+    margin-right: 20px;
+}
+
+
+.footer1 .one h1 {
+    font: 17px arial;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.footer1 .one p {
+    font: 12px arial;
+    text-align: center;
+}
+
+.footer1 .two {
+    background-color: #e7e7e7;
+    width: 220px;
+    height: 200px;
+    margin-right: 20px;
+}
+
+
+.footer1 .two h1 {
+    font: 17px arial;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.footer1 .two p {
+    font: 12px arial;
+    text-align: center;
+}
+
+.footer1 .three {
+    background-color: #e7e7e7;
+    width: 220px;
+    height: 200px;
+}
+
+
+.footer1 .three h1 {
+    font: 17px arial;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.footer1 .three p {
+    font: 12px arial;
+    text-align: center;
+}
+
+.footer1 .four {
+    background-color: #e7e7e7;
+    width: 220px;
+    height: 200px;
+    margin-left: 20px;
+}
+
+
+.footer1 .four h1 {
+    font: 17px arial;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.footer1 .four p {
+    font: 12px arial;
+    text-align: center;
+}
+
+.footer2 {
+    display: flex;
+    justify-content: center;
+    background-color: #252525;
+    display: flex;
+    height: 30px;
+}
+.footer2 .cc p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font: 12px arial;
+    text-align: center;
+    color: white;
+}
